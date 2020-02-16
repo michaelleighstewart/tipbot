@@ -1,0 +1,2 @@
+# tipbot
+TipBot for discord
