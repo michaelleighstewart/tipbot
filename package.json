@@ -1,0 +1,22 @@
+{
+  "name": "tipbot",
+  "version": "1.0.0",
+  "description": "TipBot for discord\r Nodejs implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelleighstewart/tipbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelleighstewart/tipbot/issues"
+  },
+  "homepage": "https://github.com/michaelleighstewart/tipbot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
