@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/michaelleighstewart/tipbot#readme",
   "dependencies": {
+    "@mysql/xdevapi": "8.0.19",
     "discord.js": "^11.5.1"
   }
 }
